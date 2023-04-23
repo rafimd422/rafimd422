@@ -1,6 +1,7 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Mushfiqur Rahman</h1>
-<h3 align="center">Eager to begin my career as an Frontend Web Developer.</h3>
+<h3 align="center">Eager to begin my career as an Frontend Web Developer</h3>
+
 - 🔭 I’m currently working on **Frontend Web Development**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
