@@ -1,7 +1,7 @@
 <h4 align="center">Hi 👋, I'm Mushfiqur Rahman</h4>
 <p align="center">Eager to begin my career as a Frontend Web Developer</p>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif">
+<img align="right" alt="Coding" width="404" src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif">
 
 
 - 🔭 I’m currently working on **Frontend Web Development**
