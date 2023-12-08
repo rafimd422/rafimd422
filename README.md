@@ -1,10 +1,10 @@
 <h4 align="center">Hi 👋, I'm Mushfiqur Rahman</h4>
-<p align="center">Eager to begin my career as a Frontend Web Developer</p>
+<p align="center">Dedicated to the art of coding, I thrive on crafting seamless user experiences as a Frontend Developer</p>
 
 <img align="right" alt="Coding" width="404" src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif">
 
 
-- 🔭 I’m currently working on **Frontend Web Development**
+- 🔭 I’m currently working on **Frontend Development**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
