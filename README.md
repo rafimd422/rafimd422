@@ -2,17 +2,25 @@
 
 <img align="right" alt="Coding" width="404" src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif">
 
-<sub>💻 I specialize in building <strong>modern, performant, and user-friendly web applications</strong></sub><br>
-<sub>🚀 Currently working as a <strong>Jr. Software Engineer</strong> at <a href="https://prayersconnect.com" target="_blank">Prayers Connect</a></sub><br>
-<sub>👯 Open to collaborating on <strong>software development projects</strong>, especially in <strong>React, Next.js, TypeScript, and Node.js</strong></sub><br>
-<sub>📫 Reach me at: <strong>rafimd2222@gmail.com</strong></sub>
+- 🌐 Building **web applications** with **Next.js**, **TypeScript**, and **Express.js**
+- 📱 Building **mobile apps** using **React Native**
+- 🧪 Writing tests with **Jest** and focusing on clean, maintainable code.
+- 💻 Improving performance, accessibility, and developer experience
+- 🚀 Always looking for ways to level up and stay sharp in Software Development
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/md-mushfiqur-rahman-867189207" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-mushfiqur-rahman-867189207" height="30" width="40" />
+  <a href="https://linkedin.com/in/md-mushfiqur-rahman-867189207" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/mushfiq_rafi01" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -29,6 +37,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+---
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=rafimd422&label=Profile%20views&color=0e75b6&style=flat" alt="rafimd422" /> 
