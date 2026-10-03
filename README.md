@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mushfiqur Rahman</h1>
-
 <h3 align="center">Full Stack Software Developer | Backend Systems • APIs • TypeScript • Node.js</h3>
-
-<p align="center">
-  Building scalable web applications, backend systems, APIs, and integrations with a focus on clean architecture and maintainable code.
-</p>
 
 <img align="right" alt="Coding" width="350" src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif">
 
