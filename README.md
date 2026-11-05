@@ -5,7 +5,7 @@
   <img align="right" alt="Coding" width="350" src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif">
 </p>
 
-### :male_technologist: About Me
+### About Me
 
 - :rocket: Full Stack Developer focused on TypeScript, Node.js, backend systems, and APIs
 - :gear: Building backend services, APIs, business logic, and database-driven systems
@@ -18,27 +18,21 @@
 - :books: Currently deepening my knowledge of system design, PostgreSQL internals, NestJS, Docker, and DevOps
 - :seedling: Continuously looking to grow as an engineer, take on new challenges, and build impactful products
 
-<br clear="right" />
-
----
-
 ### :rocket: Projects
 
 <sub>Most of my work is on private company codebases, so the source isn’t public. These are the live products I worked on, and I’m happy to walk through them.</sub>
-
-<br><br>
-
+<br>
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>:knife_fork_plate: Foodime</h3>
+<h3> 🍽️ Foodime</h3>
 <b>Restaurant & POS Platform</b><br>
 Building restaurant workflows, order management, payment-gateway integrations, subscriptions, merchant payouts, and real-time order tracking.<br><br>
 <code>Node.js</code> <code>PostgreSQL</code> <code>Redis</code> <code>Socket.IO</code><br><br>
 <p align="right"><a href="https://foodime.dk/"><img src="https://img.shields.io/badge/Visit-foodime.dk-0e75b6?style=flat-square" alt="Visit foodime.dk"></a></p>
 </td>
 <td width="50%" valign="top">
-<h3>:package: Kiibee</h3>
+<h3> :package: Kiibee</h3>
 <b>Digital Content Platform</b><br>
 Contributing to backend services for a platform where creators and businesses publish, stream, and sell digital content, spanning streaming and commerce.<br><br>
 <code>NestJS</code> <code>PostgreSQL</code> <code>Drizzle ORM</code><br><br>
@@ -47,14 +41,14 @@ Contributing to backend services for a platform where creators and businesses pu
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>:admission_tickets: MeetPure Events</h3>
+<h3> 🎟️ MeetPure Events</h3>
 <b>Event Management Platform</b><br>
 Improved the core user experience and built APIs for events, orders, and reports across RSVPs, ticketing, check-in, and fundraising for community organizers.<br><br>
 <code>Ruby</code> <code>Ruby on Rails</code> <code>MySQL</code> <code>Solid Queue</code><br><br>
 <p align="right"><a href="https://meetpure.events/"><img src="https://img.shields.io/badge/Visit-meetpure.events-0e75b6?style=flat-square" alt="Visit meetpure.events"></a></p>
 </td>
 <td width="50%" valign="top">
-<h3>:musical_note: Soundmade</h3>
+<h3> :musical_note: Soundmade</h3>
 <b>Music Platform for Artists & Fans</b><br>
 Working across backend services, GraphQL APIs, and database architecture for artist, fan, event, and business features, including the B2B module.<br><br>
 <code>Node.js</code> <code>GraphQL</code> <code>PostgreSQL</code> <code>Drizzle ORM</code><br><br>
@@ -63,7 +57,7 @@ Working across backend services, GraphQL APIs, and database architecture for art
 </tr>
 <tr>
 <td colspan="2" valign="top">
-<h3>:mosque: Prayers Connect</h3>
+<h3> :mosque: Prayers Connect</h3>
 <b>Community Platform Website</b><br>
 Built frontend features such as infinite scrolling with a lightbox and the Suggest Iqamah flow, and added unit tests to keep localization consistent across languages.<br><br>
 <code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>MUI</code><br><br>
@@ -71,14 +65,6 @@ Built frontend features such as infinite scrolling with a lightbox and the Sugge
 </td>
 </tr>
 </table>
-
----
-
-### :robot_face: Ask my AI assistant
-
-Want a quick overview of my work? Chat with my AI assistant about my projects, skills, and experience.
-
-👉 [**Chat with my AI assistant**](https://your-assistant-link.com) *(replace with your actual link)*
 
 ---
 
